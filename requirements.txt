@@ -1,0 +1,27 @@
+# TensorFlow and Keras
+tensorflow
+keras
+
+# Text Processing
+spacy
+sentencepiece
+
+# Model Evaluation
+sacrebleu
+
+# Data Handling and Utilities
+pandas
+numpy
+pathlib
+regex
+
+# Miscellaneous
+tqdm
+
+# Deployment
+flask
+fastapi
+streamlit
+uvicorn
+
+-e.
